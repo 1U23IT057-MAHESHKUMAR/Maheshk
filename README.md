@@ -9,5 +9,6 @@
     <h1>This is a Heading</h1>
     <p>This is my first paragraph of text in HTML.</p>
     <p>This is my first paragraph of text in HTML.</p>
+    <p>This is my first paragraph of text in HTML.</p>
 </body>
 </html>
