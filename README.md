@@ -1,1 +1,12 @@
-# Maheshk
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Sample Page</title>
+</head>
+<body>
+    <h1>This is a Heading</h1>
+    <p>This is my first paragraph of text in HTML.</p>
+</body>
+</html>
